@@ -1,0 +1,28 @@
+#######################################
+# Syntax Coloring Map For <Arduino Library Name>
+####################################### 
+# Class (KEYWORD1)
+#######################################
+
+Adafruit_LSM303_Mag_Unified KEYWORD1
+Adafruit_LSM303_Accel_Unified	KEYWORD1
+lsm303AccelData		KEYWORD1
+lsm303MagData		KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################	
+
+someMethod  	KEYWORD2
+setMagGain  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+LSM303_MAGGAIN_1_3		LITERAL1
+LSM303_MAGGAIN_1_9		LITERAL1
+LSM303_MAGGAIN_2_5		LITERAL1
+LSM303_MAGGAIN_4_0		LITERAL1
+LSM303_MAGGAIN_4_7		LITERAL1
+LSM303_MAGGAIN_5_6		LITERAL1
+LSM303_MAGGAIN_8_1		LITERAL1
